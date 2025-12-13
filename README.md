@@ -71,7 +71,7 @@ type `window.sssToggle()` in developer console to toggle the display
 
 # Notes
 
- * The primary reason I created (and use) this script was to see screen dimensions on mobile devices while troubleshooting CSS / layout issues. That's why the URL parameters exist — to toggle dimension display without having access to dev console.
+ * The primary reason I created this script was to see screen dimensions on mobile devices while troubleshooting CSS / layout issues. That's why the URL parameters exist — to toggle dimension display without having access to dev console.
 
  * I know that when developer console is open the browser automatically shows the screen dimensions. That feature works great on deskop/laptop computers while developing and troubleshooting. But, on phones, and tablets, and other devices you can't enable developer console. This provides an easy way to see screen sizes on all devices.
 
