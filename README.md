@@ -15,9 +15,7 @@ The left number is the width and the right number is the height. The script uses
 
 These dimensions are the interior width and height of the window (layout viewport) in pixels. This includes the width of the scroll bars, if they are present. 
 
-```txt
-Note: If you need to obtain the width/height of the window minus scroll bars and borders, you'll have to use the root <html> or <body> element's clientWidth / clientHeight properties instead. 
-```
+<i>Note: If you need to obtain the width/height of the window minus scroll bars and borders, you'll have to get the root `<html>` or `<body>` element's clientWidth / clientHeight properties instead. This script doesn't do that.</i> 
 
 # Usage
 
