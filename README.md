@@ -2,20 +2,18 @@
 
 **Version 1.0**
 
-Show Screen Size is a self-contained Javascript which displays screen dimensions in a tiny layer for debugging CSS and layout issues
+Show Screen Size is a self-contained Javascript which displays screen dimensions in a tiny layer for debugging CSS and layout issues. The layer appears in the upper right corner and can be enabled/disabled by multiple methods.
 
 ![Screenshot](screenshot.png)
 
 
 ## How it works
 
-Show Screen Size (sss.js) injects a small display element into your page and then writes the screen dimensions to it. It appears in the upper right hand corner as a tiny label (18 px high x 70 px wide) with numbers on it. 
+Show Screen Size (sss.js) injects a small display element `<div>` into your page before the closing `<body>` tag and then writes the screen dimensions to it. It appears in the upper right hand corner of the page as a small white layer (18 px high x 70 px wide) with black numbers on it. (See screenshot above). The left number is the width and the right number is the height. The units are in pixels. The script uses `window.innerWidth` and `window.innerHeight` for the screen dimensions. 
 
-The left number is the width and the right number is the height. The script uses `window.innerWidth` and `window.innerHeight` for dimensions. 
+These dimensions are the interior width and height of the current browser window (the layout viewport). This includes the width and height of any scroll bars (if they are present). 
 
-These dimensions are the interior width and height of the window (layout viewport) in pixels. This includes the width of the scroll bars, if they are present. 
-
-<i>Note: If you need to obtain the width/height of the window minus scroll bars and borders, you'll have to get the root `<html>` or `<body>` element's clientWidth / clientHeight properties instead. This script doesn't do that.</i> 
+<i>Note: If you need to obtain the width/height of the window minus scroll bars and borders, you'll have to request the root `<html>` or `<body>` element's clientWidth / clientHeight properties instead. This script doesn't do that.</i> 
 
 # Usage
 
