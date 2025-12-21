@@ -17,34 +17,38 @@ These dimensions are the interior width and height of the current browser window
 
 # Usage
 
-1. Download the script (`sss.js`) to your project
+### 1. Download the script (`sss.js`) to your project. (Or, if you prefer, you can use the CDN link:)
 
-2. Include it in your HTML document right before the closing `<body>` tag:
+   - https://cdn.jsdelivr.net/npm/@kendawson-online/showscreensize@1.0.0/sss.min.js
 
+### 2. Include it in your HTML document right before the closing `<body>` tag:
+
+Local script:
 ```html
     <script src="sss.js"></script>
 
 </body>
 </html>
 ```
+<br>
 
-3. Clear cache/cookies and reload your page
+CDN link:
+```html
+    <script src="https://cdn.jsdelivr.net/npm/@kendawson-online/showscreensize@1.0.0/sss.min.js"></script>
+
+</body>
+</html>
+```
+
+### 3. Clear cache/cookies and reload your page. If the script is loaded, you should see this message in the developer console:
+
+   - `Show Screen Size (sss.js) loaded. Press 1 or 0 to toggle, use URL params ss=1/ss=0, or call window.sssToggle().`
 
 <br>
 
-
------
-
-### The dimension display layer will be hidden by default when page loads!
-
------
-<br>
+## The display layer will be hidden by default when page loads!
 
 This is the default behavior of the script. **Nothing will appear in the GUI until you make it appear**. 
-
-Once the script is loaded, you'll see this message in the developer console:
-
-**Show Screen Size (sss.js) loaded. Press 1 or 0 to toggle, use URL params ss=1/ss=0, or call window.sssToggle().** 
 
 <br>
 
