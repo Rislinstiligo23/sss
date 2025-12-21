@@ -17,23 +17,9 @@ These dimensions are the interior width and height of the current browser window
 
 # Usage
 
-### 1. Download the script (`sss.js`) to your project. (Or, if you prefer, you can use a CDN link:)
+### 1. Download the script (`sss.js`) to your project. 
 
-   - https://cdn.jsdelivr.net/npm/@kendawson-online/showscreensize@1.0.0/sss.min.js
-   - https://cdn.jsdelivr.net/gh/kendawson-online/sss@v1.0/sss.js
-
-### 2. Include it in your HTML document right before the closing `<body>` tag:
-
-Local script example:
-```html
-    <script src="sss.js"></script>
-
-</body>
-</html>
-```
-<br>
-
-CDN links (pick one):
+### 2. Or, if you prefer, you can use a CDN link instead (pick one):
 
 ```html
 <script src="https://cdn.jsdelivr.net/npm/@kendawson-online/showscreensize@1.0.0/sss.min.js"></script>
@@ -43,8 +29,18 @@ CDN links (pick one):
 <script src="https://cdn.jsdelivr.net/gh/kendawson-online/sss@v1.0/sss.js"></script>
 ```
 
+### 3. Include the `<script>` tag in your HTML document right before closing `<body>` tag.
 
-### 3. Clear cache/cookies and reload your page. If the script is loaded, you should see this message in the developer console:
+Code example:
+```html
+    <script src="sss.js"></script>
+    <! -- Or, use CDN link instead: -->
+    <!-- <script src="https://cdn.jsdelivr.net/gh/kendawson-online/sss@v1.0/sss.js"></script> -->
+</body>
+</html>
+```
+
+### 4. Clear cache/cookies and reload your page. If the script is loaded, you should see this message in the developer console:
 
    - `Show Screen Size (sss.js) loaded. Press 1 or 0 to toggle, use URL params ss=1/ss=0, or call window.sssToggle().`
 
