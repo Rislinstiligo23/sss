@@ -34,7 +34,7 @@ These dimensions are the interior width and height of the current browser window
 Code example:
 ```html
     <script src="sss.js"></script>
-    <! -- Or, use CDN link instead: -->
+    <!-- Or, use CDN link instead: -->
     <!-- <script src="https://cdn.jsdelivr.net/gh/kendawson-online/sss@v1.0/sss.js"></script> -->
 </body>
 </html>
