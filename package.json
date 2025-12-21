@@ -1,5 +1,5 @@
 {
-  "name": "showscreensize",
+  "name": "@kendawson-online/showscreensize",
   "version": "1.0.0",
   "description": "A self-contained Javascript which displays screen dimensions in a tiny layer for debugging CSS and layout issues.",
   "main": "sss.js",
