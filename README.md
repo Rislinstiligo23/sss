@@ -33,10 +33,16 @@ Local script example:
 ```
 <br>
 
-CDN link example:
+CDN links (pick one):
+
 ```html
-    <script src="https://cdn.jsdelivr.net/npm/@kendawson-online/showscreensize@1.0.0/sss.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@kendawson-online/showscreensize@1.0.0/sss.min.js"></script>
 ```
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/kendawson-online/sss@v1.0/sss.js"></script>
+```
+
 
 ### 3. Clear cache/cookies and reload your page. If the script is loaded, you should see this message in the developer console:
 
