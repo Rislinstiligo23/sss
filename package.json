@@ -1,0 +1,23 @@
+{
+  "name": "showscreensize",
+  "version": "1.0.0",
+  "description": "A self-contained Javascript which displays screen dimensions in a tiny layer for debugging CSS and layout issues.",
+  "main": "sss.js",
+  "files": ["sss.js", "README.md", "LICENSE", "screenshot.png"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kendawson-online/sss.git"
+  },
+  "keywords": ["tools","helper","screen size","development","showscreensize","javascript"],
+  "author": {
+    "name":"Ken Dawson",
+    "email": "ken@kendawson.online",
+    "url": "https://kendawson.online"
+  },
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kendawson-online/sss/issues"
+  },
+  "homepage": "https://github.com/kendawson-online/sss#readme"
+}
