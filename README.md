@@ -1,6 +1,6 @@
 # Show Screen Size (sss)
 
-**Version 1.0**
+**Version 1.1.0**
 
 Show Screen Size is a self-contained Javascript which displays screen dimensions in a tiny layer for debugging CSS and layout issues. The layer appears in the upper right corner and can be enabled/disabled by multiple methods.
 
@@ -22,11 +22,11 @@ These dimensions are the interior width and height of the current browser window
 ### 2. Or, if you prefer, you can use a CDN link instead (pick one):
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/@kendawson-online/showscreensize@1.0.0/sss.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@kendawson-online/showscreensize@1.1.0/sss.min.js"></script>
 ```
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/kendawson-online/sss@v1.0/sss.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/kendawson-online/sss@v1.1.0/sss.js"></script>
 ```
 
 ### 3. Include the `<script>` tag in your HTML document right before closing `<body>` tag.
@@ -35,7 +35,7 @@ Code example:
 ```html
     <script src="sss.js"></script>
     <!-- Or, use CDN link instead: -->
-    <!-- <script src="https://cdn.jsdelivr.net/gh/kendawson-online/sss@v1.0/sss.js"></script> -->
+    <!-- <script src="https://cdn.jsdelivr.net/gh/kendawson-online/sss@v1.1.0/sss.js"></script> -->
 </body>
 </html>
 ```

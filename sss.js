@@ -1,7 +1,7 @@
 // -----------------------------------------------------------------------------------
 // sss.js -- show screen size
 //
-// Version 1.0
+// Version 1.1.0
 //
 // injects a small display element into the page and displays screen dimensions 
 // in the upper right corner. useful for debugging style sheet and layout issues.
@@ -23,7 +23,7 @@
 // call window.sssToggle() in the browser console to toggle the display
 //
 // Created 12/12/25 by ken@kendawson.online
-// Last updated: 12/12/25
+// Last updated: 12/23/25
 //
 // -----------------------------------------------------------------------------------
 
